@@ -1,0 +1,2 @@
+# CUDA 12.x + cuDNN 9 runtime; installed only into this copy's .gpu-libs.
+onnxruntime-gpu[cuda,cudnn]==1.26.0

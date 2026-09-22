@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+*.bak
+.venv/
+.gpu-libs/
+.ocr-libs/
+test_*/
+*.pdf
+.env
+.env.*
+!.env.example
